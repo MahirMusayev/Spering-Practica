@@ -1,0 +1,55 @@
+﻿@using SperingTask.Models
+@model List<Category>
+
+
+<h5 class="card-title fw-semibold mb-4">
+	Recent Transactions
+	<a asp-action="Create" class="btn btn-outline-success m-1 ">Create</a>
+</h5>
+<div class="table-responsive">
+	<table class="table text-nowrap mb-0 align-middle">
+		<thead class="text-dark fs-4">
+			<tr>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Id</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Name</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Icons</h6>
+				</th>
+				<th class="border-bottom-0">
+					<h6 class="fw-semibold mb-0">Budget</h6>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+
+			@foreach (var category in Model)
+			{
+				<tr>
+					<td class="border-bottom-0">
+						<h6 class="fw-semibold mb-0">@category.Id</h6>
+					</td>
+					<td class="border-bottom-0">
+						<h6 class="fw-semibold mb-1">@category.Name</h6>
+					</td>
+					<td class="border-bottom-0">
+						<i class="@category.Icons"></i>
+					</td>
+					<td class="border-bottom-0">
+
+						<a asp-action="Update" asp-route-id="@category.Id" class="btn btn-primary m-1">Update</a>
+						<a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger m-1">Delete</a>
+
+
+
+					</td>
+				</tr>
+
+			}
+
+		</tbody>
+	</table>
+</div>
