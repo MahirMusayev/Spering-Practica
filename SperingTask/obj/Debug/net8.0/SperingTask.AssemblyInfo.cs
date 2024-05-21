@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SperingTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772e5cb8061ce9f419022965a3ae328bc36a2a64")]
 [assembly: System.Reflection.AssemblyProductAttribute("SperingTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SperingTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

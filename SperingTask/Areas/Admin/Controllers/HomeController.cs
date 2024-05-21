@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SperingTask.DAL;
 using SperingTask.Models;
@@ -7,6 +8,7 @@ using SperingTask.ViewModels;
 namespace SperingTask.Areas.Admin.Controllers
 {
 	[Area("admin")]
+	[Authorize]
 	public class HomeController : Controller
 	{
 		private readonly SperingContext _context;

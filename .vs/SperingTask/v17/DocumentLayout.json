@@ -3,60 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\SperingTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\viewmodels\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\viewmodels\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\dal\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\dal\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|c:\\users\\heydar\\desktop\\speringtask\\speringtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE61DBB2-3309-403F-8D59-C51B4285CAEC}|SperingTask\\SperingTask.csproj|solutionrelative:speringtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,113 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T15:12:48.559Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SperingTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T17:55:46.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "SperingTask\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Models\\Category.cs",
-              "RelativeToolTip": "SperingTask\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:52:08.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\ViewModels\\CreateCategoryVM.cs",
-              "RelativeDocumentMoniker": "SperingTask\\ViewModels\\CreateCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\ViewModels\\CreateCategoryVM.cs",
-              "RelativeToolTip": "SperingTask\\ViewModels\\CreateCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:39:32.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\ViewModels\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "SperingTask\\ViewModels\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\ViewModels\\GetCategoryVM.cs",
-              "RelativeToolTip": "SperingTask\\ViewModels\\GetCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:39:14.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:00:05.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T17:12:03.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T17:12:02.685Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -183,80 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T15:36:17.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T17:02:48.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SperingContext.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\DAL\\SperingContext.cs",
-              "RelativeDocumentMoniker": "SperingTask\\DAL\\SperingContext.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\DAL\\SperingContext.cs",
-              "RelativeToolTip": "SperingTask\\DAL\\SperingContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:22:29.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SperingTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SperingTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADoAAAAAAAAAAAAQwFkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T15:39:12.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SperingTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SperingTask\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:59:57.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Program.cs",
               "RelativeDocumentMoniker": "SperingTask\\Program.cs",
               "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Program.cs",
               "RelativeToolTip": "SperingTask\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:59:52.925Z",
+              "WhenOpened": "2024-05-21T17:05:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SperingTask\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SperingTask\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0QAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:01:26.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SperingTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\SperingTask\\SperingTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SperingTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:55:13.784Z",
               "EditorCaption": ""
             }
           ]
